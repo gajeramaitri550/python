@@ -1,11 +1,7 @@
-# Task1
+##task1
 user information
 
-## covered topics:-
-- print()
-- input()
-- int()
-- str()
-- end()
+##covered topics
+-phythone
 
-![output](pro)
+![output]()

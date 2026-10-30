@@ -91,7 +91,7 @@ while True:
                     break
 
                 print("\nUpdated Successfully!\n")
-                breakṇ
+                break1
         else:
             print("\nStudent not found!\n")
 
@@ -122,3 +122,4 @@ while True:
 
     else:
         print("\nPlease enter a valid choice!\n")
+        
